@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaProducto", "TiendaProducto\TiendaProducto.csproj", "{F0432FD4-CEAF-466A-8C23-2E823E4DED4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelsDb", "ModelsDb\ModelsDb.csproj", "{D409B48B-2F5C-4EA0-8E76-79CEE8BEFABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0432FD4-CEAF-466A-8C23-2E823E4DED4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0432FD4-CEAF-466A-8C23-2E823E4DED4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0432FD4-CEAF-466A-8C23-2E823E4DED4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0432FD4-CEAF-466A-8C23-2E823E4DED4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D409B48B-2F5C-4EA0-8E76-79CEE8BEFABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D409B48B-2F5C-4EA0-8E76-79CEE8BEFABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D409B48B-2F5C-4EA0-8E76-79CEE8BEFABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D409B48B-2F5C-4EA0-8E76-79CEE8BEFABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB612D4-459C-4039-8084-4749280450F5}
+	EndGlobalSection
+EndGlobal
